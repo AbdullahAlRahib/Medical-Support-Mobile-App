@@ -1,0 +1,546 @@
+<resources>
+    <string name="app_name">Medical Support</string>
+    <string name="m4">
+        Dr. Mahmudul Huque\n
+        Qualification: MBBS,MD(Endocrinology)\n
+        Designation: Assistant Professor\n
+        Department of Medicine\n
+        Expertise: Medicine\n
+        Organization: Holy Family Red\n
+        Crecent Hospital\n
+        Chamber: Ibn Sina Diagnostic\n
+        and Imaging Center\n
+        Chamber Address: House # 48,\n
+        Road # 9/A, Dhanmondi,\n
+        SAtmasjid\n
+        Road, Dhaka - 1209,
+        tBangladesh\n
+        Chamber Appointment Number:\n
+        +880-2-9126625,\n
+        9128835-7,\n
+        Cell:+880 1717351631 ( Chamber )
+    </string>
+    <string name="m5">
+        Dr. Md. Abdul kader\n
+        Qualification :MBBS, FCPS\n
+        Designation : Assistance Professor\n
+        Expertise : Medicine\n
+        Organization: Bangabandhu Sheikh Mujib Medical University\n
+        Chamber: Alpha Medical Lab\n
+        Chamber Address: Rajbari, Jaydebpur\n
+        Chamber Appointment Number: +880 1711489537\n
+    </string>
+    <string name="m6">
+        Dr. Md. Titu Miah\n
+        Qualification : MBBS, FCPS (Medicine)\n
+        Designation : Assistant Professor\n
+        Expertise : Medicine\n
+        Organization: Dhaka Medical College and Hospital\n
+        Chamber: Popular Diagnostic Centre Ltd - Dhanmondi Branch\n
+        Chamber Address: House-11/A, Road-2, Dhanmondi R/A,\n
+        Dhaka-1205, Bangladesh\n
+        Chamber Appointment Number: +880-2-9669480, 9661491-3 (\n
+        Chamber )\n
+    </string>
+    <string name="m7">
+        Dr. Md. Zaid Hossain\n
+        Qualification : MBBS, MRCP\n
+        Designation : Assistant professor, Department of Medicine\n
+        Expertise : Medicine\n
+        Organization: Dhaka Medical College\n
+        Chamber: Labaid Cardiac Hospital\n
+        Chamber Address: House # 1, Road # 4, Dhanmondi, Dhaka - 1205\n
+        Chamber Appointment Number: + 880-2-8610793 - 8, 9670210 - 3\n
+    </string>
+    <string name="m3">
+        Dr. Shamim Ahmed
+        Qualification : MBBS, FCPS ( Medicine )
+        Designation : Assistant Professor
+        Expertise : Medicine
+        Organization: Bangabandhu Sheikh Mujib Medical University (
+        BSMMU )
+        Chamber: Ibn Sina Medical Imaging Center
+        Chamber Address: House # 58, Road # 2/A, Dhanmondi R/A, Dhaka
+        - 1209, Bangladesh
+        Chamber Appointment Number: +880-2-8610420, 966497, 9663289,
+        8618262 ( Chmaber )
+    </string>
+    <string name="m2">
+        Dr. Md. Mostarshid Billah\n
+        Specialist in Medicine,\n
+        Diabetes and Kidney diseases\n
+        Assistant Professor ,Nephrology and Dialysis, BIRDEM
+        Chamber: Labaid ltd.Badda\n
+        House 4, Road 10,Merol badda, dhaka
+        Room no 404(sat-thrus 4: 00-6:30 pm)
+        For serial: 01766660208\n
+        Chamber:
+        Farazy Hospital
+        Bonosri E block Rampura
+        Room no 317(sat-thrus 6: 30-10 pm;Fri 7-9 pm)\n
+        For serial: 01882084414,028390000
+    </string>
+    <string name="m1">
+        Dr. Md. Golam Kibria Khan\n
+        Qualification : MBBS (Dhaka), FCPS (Medicine), MACP (USA),\n
+        FACP (USA), Rheumatology Fellow (USA)\n
+        Designation : Associate Professor\n
+        Expertise : Medicine\n
+        Organization: Dhaka Medical College and Hospital\n
+        Chamber: Popular Diagnostic Centre Ltd - Dhanmondi Branch\n
+        Chamber Address: House-11/A, Road-2, Dhanmondi R/A,
+        Dhaka-1205, Bangladesh\n
+        Chamber Appointment Number: +880-2-9669480, 9661491-3 (Chamber )
+    </string>
+    <string name="s1">
+        Prof. Col. Dr. Md. Shirajul Islam Khan\n
+        MBBS, DDV, MCPS, FCPS(Dermatology and Venereology)\n
+        Grading Course in Dermatology (AFMI),\n
+        Fellowship Training in Cutaneous and LASER Surgery(Bangkok)\n
+        Dermatology and Venereology, Allergy, Cosmetic and Sexual Medicine Specialist\n
+        Professor and Head of the Department at Dermatology and Venereology at Combined\n
+        Military Hospital (CMH), Dhaka Cantonment\n
+        BMDC Reg No: A-21472\n
+        House no:21,Road 3,Section 7,Pallabi, Mirpur ,Dhaka\n
+        Visiting Hour:08 PM to 09 PM (Except Friday)\n
+        Phone for Serial:02-9033206-9\n
+        Chamber: LabAid Ltd,(Diagnostic),Pallabi,Dhaka\n
+    </string>
+    <string name="s2">
+        Dr. Lutfun Nahar\n
+        MBBS (DMC) Ph.D (Dermatology, Nagoya University School Of Medicine, Japan)\n
+        Fellow Skin Laser and Dermatosurgery ( Mahidol University, Thailand)\n
+        Senior Consultant Dermatologist\n
+        Dermatology, Venereology and Laser Specialites at Nahar Skin and Laser Centre\n
+        BMDC Reg. No 10242\n
+        Chamber: Nahar Skin and Laser Center\n
+        Road-9, H-C119/1, Niketon, Gulsan-1, Dhaka\n
+        Just opposite to Gulshan outlet of Aarong\n
+        ( Enter Through Niketan Gate no-2, then Left twice.)\n
+        Visiting Hours: 10am-12pm\n
+        5:00pm – 8:00pm (Friday Closed)\n
+        Phone for serial: 01817046298\n
+        Online Consultation Whatsapp\n
+    </string>
+    <string name="s3">
+        Dr. Md. Nasiruddin Molla (Bulbul)\n
+        Qualifications:\n
+        MBBS, DDV (Skin and VD), MCPS ( Skin and VD)\n
+        Skin and Dermatology Specialist\n
+        Consultant ( Skin and VD ) at National health Care Network, Bashabo ,Dhaka\n
+        Bangladesh Diabetic Association\n
+        (Associate Organization of BIRDEM)\n
+        Chamber: Islami Bank Hospital Mugda\n
+        1/24/B, South mugdapara, Dhaka 1214\n
+        Visiting Hours:\n
+        Serial : 02-7274200-8, 01724008677, 01771571518\n
+
+
+    </string>
+    <string name="s4">
+        Prof. Dr. Kazi A. Karim\n
+        Qualifications:\n
+        MBBS (Dhaka), DDV (Viena), MSSVD (London)\n
+        Dermatology / Skin Specialist\n
+        Chamber: Popular Diagnostic Centre Ltd – Dhanmondi Branch\n
+        House #16, Road # 2, Dhanmondi R/A, Dhaka-1205, Bangladesh\n
+        Phone : +880 9613 787801\n
+        Visiting Hour : 5 pm- 9 pm\n
+        (Friday and Govt. Holidays Closed)\n
+        Chamber 2: United Hospital\n
+        Plot 15, Road 71, Gulshan, Dhaka-1212 Bangladesh\n
+        Appointment: 9852466 Hotline: 10666\n
+
+    </string>
+    <string name="s5">
+        Prof. Dr. Hasibur Rahman\n
+        Qualifications:\n
+        MBBS, FCPS (Dermatology and VD),\n
+        MRCPS (Glasg.), FACP (USA), FRCP (Edin.)\n
+        Dermatology and Venerology Specialist\n
+        Consultant at Apollo Hospitals Dhaka\n
+        Chamber: Apollo Hospitals Dhaka\n
+        Plot # 81, Block # E, Basudhara R/A, Dhaka – 1229\n
+        Phone: +880-2-8401661, 8845242,\n
+        Cell: +880 1841276556, Hotline: 10678\n
+
+    </string>
+    <string name="s6">
+        Prof. Dr. Md. Akram Ullah Shikdar\n
+        Qualifications:\n
+        MBBS, DVD\n
+        Darmatology, Skin and VD Specialist\n
+        Professor of BSMMU\n
+        Chamber: Anowar Khan Modern Hospital\n
+        House #17, Road #08, Dhanmondi, Dhaka-1205\n
+        Phone: +880 -9670295, +880 -9664956\n
+
+    </string>
+    <string name="s7">
+        Prof. Dr. Shah Ataur Rahman\n
+        Qualifications:MBBS, Ph.D (Japan), Post doctoral fellow (Japan and USA)\n
+        Trained in Cosmetic Dermatology (India, UAE)\n
+        Dermatology / Skin Specialist, Consultant\n
+        Chamber: United Hospital\n
+        Plot 15, Road 71, Gulshan, Dhaka-1212 Bangladesh\n
+        Appointment: 9852466 Hotline: 10666\n
+
+    </string>
+    <string name="c1">
+        Dr. Amal Kumar Chowdhury\n
+        Cardiology /Heart Specialist\n
+        Designation: Associate Professor, Interventional Cardiologist\n
+        Institute: National Institute of Cardiovascular Diseases (NICVD), Dhaka\n
+        Chamber Name: Comfort Diagnostic Centre and Comfort Nursing Home – Green Road\n
+        Chamber Adress: 167/B, Green Road, Dhanmondi, Dhaka\n
+        Chamber Appointment Number: Phone: +880-2-8124990 (Master Line), 8129667, 8124380 (
+        Chamber )\n
+        Education Qualification: MBBS, FCPS ( Medicine ), MD( Cardiology )\n
+    </string>
+    <string name="c2">
+        Dr. Md. Nazibur Rahman Khandaker\n
+        Cardiology /Heart Specialist\n
+        Designation: Associate Professor\n
+        Institute: Shaheed Suhrawardy Medical College and Hospital\n
+        Chamber Name: New Capital Clinic\n
+        Chamber Address: 3/12, Humayun Road, Mohammadpur Dhaka‑1207\n
+        Chamber Appointment Number: Phone: +880-2- 9133729( Chamber ), Mobile-01819212145\n
+        Education Qualification: MBBS, MD ( Cardiology )\n
+    </string>
+    <string name="c3">
+        Dr. Dipankar Chandra Nag\n
+        Cardiology /Heart Specialist\n
+        Designation: Associate professor\n
+        Institute: Dhaka National Medical College and Hospital\n
+        Chamber Name: Sumona Medical College Hospital\n
+        Chamber Address: 3,4, Patuatuly Road, Sadarghat\n
+        Chamber Appointment Number: Phone: +880 1715421423 , +880 1711486147\n
+        Education: MBBS, MD\n
+
+    </string>
+    <string name="c4">
+        Dr. Fazlur Rahman\n
+        Cardiology /Heart Specialist\n
+        Designation: Associate Professor, Department of Cardiology\n
+        Institute: Bangabandhu Sheikh Mujib Medical University (BSMMU), Shahbagh, Dhaka\n
+        Chamber Name: Anwer Khan Modern Hospital Ltd.\n
+        Chamber Address: House # 17, Road # 8, Dhanmondi, Dhaka – 1205, Bangladesh\n
+        Chamber Appointment Number: Phone: +880-2-8613883, 9670295\n
+        Education Qualification: MBBS, MCPS ( Medicine ), Dcard, MD ( Card )\n
+
+    </string>
+    <string name="c5">
+        Dr. A.K.M. Fazlur Rahman\n
+        Designation: Associate Professor\n
+        Expertise: Cardiac Surgeon\n
+        Institute: Bangabandhu Sheikh Mujib Medical University (BSMMU)\n
+        Chamber Name: Anwer Khan Modern Hospital Ltd.\n
+        Chamber Address: House – 17, Road – 8, Dhanmondi Dhaka – 1205, Bangladesh\n
+        Chamber Appointment Number: Phone: +880-2-9670295, 8616074, 9674609\n
+        Education Qualification: MBBS, MD(Card)\n
+
+    </string>
+    <string name="c6">
+        Dr. Rafiqul Alam\n
+        Cardiology /Heart Specialist\n
+        Designation: Associate Professor,\n
+        Institute: Banga Bandhu Shekh Mujib Medical University (P.G. Hospital),\n
+        Chamber Name: Lab Aid Ltd.,\n
+        Chamber Address: House # 1, Road # 4, Dhanmondi\n
+        Chamber Appointment Number: Telephone +880-2-8610793-8, 8614545-49\n
+
+    </string>
+    <string name="c7">
+        Dr. Asit Baran Adhikary\n
+        Member Society of Thoracic Surgeon, USA,\n
+        Fellow (Baylor College of Medicine, Houston),\n
+        Cardiology /Heart Specialist\n
+        Designation: Associate Prof. Cardiac Surgery,\n
+        Institute: National Institute of Cardiovascular Diseases\n
+        Chamber Appointment Number: Telephone +880-2-9110105, 9122560-78, 9117524, 811\n
+        Education: MBBS, MS (CV and T) FICS\n
+
+    </string>
+    <string name="k1">
+        Prof. Dr. M. Mujibul Haque Mollah\n
+        Qualification : MBBS, MRCP ( UK )\n
+        Designation : Prof. and Head, Department of Nephrology\n
+        Expertise : Kidney ( Nephrology )\n
+        Organization: Bangladesh Medical College and Hospital\n
+        Chamber: City Hospital Ltd.\n
+        Location: 1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka – 1207, Bangladesh\n
+
+    </string>
+    <string name="k2">
+        Professor Dr. Md. Jahangir Kobir\n
+        Qualification : FCPS (Medicine) FCW (Kidney)UK\n
+        Designation : Director and Professor\n
+        Expertise : Kidney ( Nephrology )\n
+        Organization: National Institute of Kidney Disease and Urology\n
+        Chamber: City Hospital Ltd.\n
+        Location: 1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka – 1207, Bangladesh\n
+
+    </string>
+    <string name="k3">
+        Prof. Dr. Harun-Ur-Rashid\n
+        Qualification : MBBS, P.hD, FCPS, FRCP\n
+        Designation : Former Professor and Chairman\n
+        Expertise : Kidney ( Nephrology )\n
+        Organization: Kidney Foundation
+        Chamber: Popular Diagnostic Centre Ltd – Dhanmondi Branch\n
+        Location: Popular consultation -2, 4th Floor, Road No # 2, Dhanmondi R/A, Dhaka – 1205,
+        Bangladesh\n
+
+    </string>
+    <string name="k4">
+        Professor Dr. M. Muhibur Rahman\n
+        Qualification : MBBS (DMC), FCPS (Medicine), MRCP (UK), Ph.D Nephrology (London)
+        Designation : Professor, Department of Nephrology\n
+        Expertise : Kidney ( Nephrology )\n
+        Organization: Dhaka Medical College and Hospital\n
+        Chamber: Popular Diagnostic Centre Ltd – Dhanmondi Branch\n
+        Visiting Hours: 6 am – 10 am ( Firday Closed )\n
+        Location: Road # 2, House # 9/A, Dhanmondi. Dhaka – 1205. Bangladesh\n
+
+    </string>
+    <string name="k5">
+        Professor Dr. Md. Habibur Rahman\n
+        Qualification : MBBS, FCPS, MSC (Eng), FRCP (Edin)\n
+        Designation : Professor, Department of Nephrology\n
+        Expertise : Medicine and Kidney\n
+        Organization: Bangabandhu Sheikh Mujib Medical University\n
+        Chamber: Popular Diagnostic Centre Ltd – Dhanmondi Branch\n
+        Location: Road # 2, House # 9/A, Dhanmondi. Dhaka – 1205. Bangladesh\n
+
+    </string>
+    <string name="k6">
+        Professor Dr. M. A. Samad\n
+        Qualification : MBBS, MD (Nephro), FCPS (Medicine)\n
+        Designation : Professor, Department of Nephrology\n
+        Expertise : Medicine and Kidney\n
+        Organization: Labaid Specialized Hospital\n
+        Chamber: Labaid Specialized Hospital\n
+        Location: Road # 2, House # 9/A, Dhanmondi. Dhaka – 1205. Bangladesh\n
+
+    </string>
+    <string name="k7">
+        Dr. M. Ehteshamul Haque\n
+        Qualification : MBBS, MD (Nephrology), Fellowship (Nephro) Japan\n
+        Designation : Professor and Head\n
+        Expertise : Kidney and Medicine\n
+        Organization: The Holy Family Red Crescent Medical College (HFRCMC)\n
+        Chamber: The Barakah Kidney Hospital and Research Institute\n
+        Location: 129, New Eskaton Road, Dhaka-1000, Bangladesh\n
+
+    </string>
+    <string name="e1">
+        Prof. Dr. Deen Mohd. Noorul Huq\n
+        Phaco and Glaucoma Surgeon\n
+        Chairman- Deen Mohd. Eye Hospital and Research Center\n
+        Chamber: Deen Mohd. Eye Hospital and Research Center.\n
+        Navana Newbury Place\n
+        4/1/A Sobhanbag(2nd Floor) Mirpur Road,\n
+        (Opposite to Rapa Plaza)Dhaka 1207\n
+        Phone: 029144420, 029144421, 029144425\n
+        Mobile: +8801731-185782, +8801551244492\n
+
+    </string>
+    <string name="e2">
+        Prof. Brig. Gen. Dr. Sayedur Rahman\n
+        MBBS, FCPS, DGO\n
+        Ophthalmology / Eye Specialist and Surgeon\n
+        Coordinator and Senior Consultant\n
+        Apollo Hospitals Dhaka\n
+        Chamber: Apollo Hospitals Dhaka\n
+        Plot # 81, Block # E, Basudhara R/A, Dhaka – 1229\n
+        Phone: +880-2-8401661, 8845242,\n
+        Cell: +880 1841276556, Hotline: 10678\n
+
+
+    </string>
+    <string name="e3">
+        Prof. Dr. Faridul Hasan\n
+        MBBS, DO (DU) MS (Ophthalmology)\n
+        Ophthalmology / Eye Specialist and Surgeon\n
+        Consultant\n
+        Chamber: United Hospital\n
+        Plot 15, Road 71, Gulshan, Dhaka-1212 Bangladesh\n
+        Appointment: 9852466 Hotline: 10666\n
+
+    </string>
+    <string name="e4">
+        Prof. Dr. Md. Abdul Hye\n
+        MBBS, FCPS. (Ophth)\n
+        Ophthalmology / Eye Specialist and Surgeon
+        Professor\n
+        Monno Medical College\n
+        Chamber: Ibn Sina Diagnostic and Imaging Center,Dhanmondi\n
+        House 48, Road 9/A, Dhanmondi, Dhaka 1209\n
+        Appointment: 10615,+88 09610010615\n
+        Chamber Time: 7:00 PM to 9:00 PM
+
+
+    </string>
+    <string name="e5">
+        Prof. Dr. Col. Md. Abdur Rouf Siddique\n
+        MBBS, DO (DU), FCPS (OPH)\n
+        Ophthalmology / Eye Specialist and Surgeon
+        Consultant\n
+        Chamber: United Hospital\n
+        Plot 15, Road 71, Gulshan, Dhaka-1212 Bangladesh\n
+        Appointment: 9852466 Hotline: 10666
+
+
+    </string>
+    <string name="e6">
+        Prof. Dr. Sarwer Alam\n
+        MBBS, DO, FCPS\n
+        Ophthalmology / Eye Specialist and Surgeon\n
+        Professor
+        Islamia Eye Hospital\n
+        Chamber: Anowar Khan Modern Hospital\n
+        House #17, Road #08, Dhanmondi, Dhaka-1205\n
+        Phone: +880 -9670295, +880 -9664956\n
+
+    </string>
+    <string name="e7">
+        Prof. Dr. Md. Shamsul Haque\n
+        MBBS, FCPS (Ophtha)Ophthalmology / Eye Specialist and Surgeon\n
+        Chamber: Popular Diagnostic Centre Ltd – Dhanmondi Branch\n
+        House #16, Road # 2, Dhanmondi R/A, Dhaka-1205, Bangladesh\n
+        Phone : +880 9613 787801\n
+        Visiting Hour : 6:30 PM – 9:00 PM\n
+        (Thursday and Friday Closed)\n
+        10.00 AM to 01:00 PM (Saturday to Thursday)\n
+
+    </string>
+    <string name="a1">
+        1.Dhaka Ambulance
+    </string>
+    <string name="a1.1">
+        122, shahid tajuddin ahmed sarani, moghbazar, Dhaka- 1217, Bangladesh\n
+        +880-1714-325 325, 01993-800900\n
+    </string>
+    <string name="a2">
+        2.Alif Ambulance Service
+    </string>
+    <string name="a2.1">
+        76/A, Ground Floor A/1, West Panthapath, Dhaka- 1215, Bangladesh\n
+        +88-01713-205555, 01552-637705, 01819-253777\n
+    </string>
+    <string name="a3">
+        3.Impress Aviation Air Ambulance
+    </string>
+    <string name="a3.1">
+        40 Shahid Tajuddin Ahmed Sarani Tejgaon I/A, Dhaka- 1208, Bangladesh\n
+        +88-01989-093619\n
+    </string>
+    <string name="a4">
+        4..Ad-Din Ambulance
+    </string>
+    <string name="a4.1">
+        2 Bara Moghbazar, Dhaka- 1217, Bangladesh\n
+        +88-01713-488411, 01713-488412\n
+    </string>
+    <string name="a5">
+        5.Fatama Ambulance Services
+    </string>
+    <string name="a5.1">
+        Dhaka- 1209, Bangladesh\n
+        +88-01915-848727, 01714-492717, 01987-017067, 01965-284951\n
+    </string>
+    <string name="a6">
+        6.Allahr Dan Ambulance Services
+    </string>
+    <string name="a6.1">
+        Nobab Habibula Road, Dhaka- 1000, Bangladesh\n
+        +88-01712-010075, 01912-010075\n
+    </string>
+    <string name="a7">
+        7.Habiba Ambulance Services
+    </string>
+    <string name="a7.1">
+        Dhaka, Bangladesh\n
+        +88-01736-418750, 01932-033046, 01791-556875\n
+    </string>
+    <string name="a8">
+        8.Shohag Ambulance Services
+    </string>
+    <string name="a8.1">
+        PG Hospital 1No. Gate, Dhaka, Bangladesh\n
+        +88-01711-115672, 01732-210438, 01971-115672\n
+    </string>
+
+
+    <string name="n1">
+            1.SALMA KHATUN
+        </string>
+    <string name="n1.1">
+            Senior Staff Nurse\n
+            National Institute of Cardiovascular Disease (NICVD), Dhaka\n
+            01764936386\n
+
+        </string>
+    <string name="n2">
+            2.SONIA AKTER
+        </string>
+    <string name="n2.1">
+            Senior Staff Nurse\n
+            300-Bedded Hospital, Narayanganj\n
+            01796619131\n
+
+        </string>
+    <string name="n3">
+            3.NAZMA SULTANA
+        </string>
+    <string name="n3.1">
+            Senior Staff Nurse\n
+            LABAID Hospital\n
+            01689516635\n
+
+        </string>
+    <string name="n4">
+            4.MD.ZIAUL HAQ
+        </string>
+    <string name="n4.1">
+            Senior Staff Nurse\n
+            National Institute of Traumatology and Orthopaedic Rehabilitation (NITOR), Dhaka\n
+            01794633814, 01915461586\n
+        </string>
+
+    <string name="n5">
+            5.HAFIZUNNESA
+        </string>
+    <string name="n5.1">
+            Senior Staff Nurse\n
+            SQUARE HOSPITAL\n
+            01736584265\n
+
+        </string>
+    <string name="n6">
+            6.BELY KHANDAKER
+        </string>
+    <string name="n6.1">
+            Senior Staff Nurse\n
+            United Hospital\n
+            01912579632\n
+
+        </string>
+    <string name="n7">
+            7.ASADUR NUR TAREQ
+        </string>
+    <string name="n7.1">
+            Senior Staff Nurse\n
+            Ibn Sina Medical College and Hospital\n
+            01701019856\n
+
+        </string>
+    <string name="n8">
+            8.TANJINA MEHENAJ RUBI
+        </string>
+    <string name="n8.1">
+            Senior Staff Nurse\n
+            SQUARE HOSPITAL\n
+            01689298451\n
+        </string>
+</resources>
